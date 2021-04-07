@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"player1","characterIndex":0,"characterName":"player1","classId":1,"equips":[5,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"主角","nickname":"奥利给","note":"","profile":""},
+{"id":2,"battlerName":"player2","characterIndex":1,"characterName":"player1","classId":2,"equips":[0,7,2,7,0],"faceIndex":1,"faceName":"player1","traits":[],"initialLevel":5,"maxLevel":99,"name":"Simon","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":2,"characterName":"player1","classId":3,"equips":[7,3,9,8,0],"faceIndex":2,"faceName":"player1","traits":[],"initialLevel":10,"maxLevel":99,"name":"Chris","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"player4","characterIndex":3,"characterName":"player1","classId":4,"equips":[2,3,2,8,4],"faceIndex":3,"faceName":"player1","traits":[],"initialLevel":3,"maxLevel":99,"name":"Ivan","nickname":"","note":"","profile":""}
+]
