@@ -3,7 +3,7 @@
 ## 试玩链接
 - https://gaofangshu.github.io/DeepDarkJourney/
 
-- 游戏截图 & Windows离线版下载见 https://xqb9x7ca0c.feishu.cn/docs/doccn06e1lr38yPrTRH2wXXmBLe#
+- 游戏截图 & Windows离线版下载见 https://bytedance.feishu.cn/docs/doccnHj9PhrjAPbkt1UZyKbvmId
 
 ## 游戏概述
 
